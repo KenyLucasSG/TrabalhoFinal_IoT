@@ -4,8 +4,8 @@
 #include <DHT.h>
 
 // Configurações do Wi-Fi
-const char* ssid = "DIDE_Erleide";              
-const char* password = "dide@pmp";         
+const char* ssid = "Error_404";              
+const char* password = "KLSG9124";         
 
 //Configura MQTT
 const char* mqtt_server = "test.mosquitto.org"; 
